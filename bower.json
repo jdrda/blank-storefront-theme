@@ -1,0 +1,25 @@
+{
+  "name": "blank-storefront-child",
+  "authors": [
+    "Jan Drda <jdrda@outlook.com>"
+  ],
+  "description": "Minimum Storefront theme for additional development",
+  "main": "",
+  "keywords": [
+    "storefront",
+    "woocommerce",
+    "blank",
+    "child",
+    "theme"
+  ],
+  "license": "GNU General Public License v2 or later",
+  "homepage": "https://github.com/jdrda/blank-storefront-child",
+  "ignore": [
+    "**/.*",
+    ".idea",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
